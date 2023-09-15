@@ -1,0 +1,14 @@
+{
+  "name": "lns2shopify",
+  "version": "1.0.0",
+  "description": "Converts Catalog CSV Export from Land N Sea Distributions to Shopify's CSV Import Format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Pluhar",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.0"
+  }
+}
